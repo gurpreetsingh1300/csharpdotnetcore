@@ -20,7 +20,7 @@ namespace OdeToFood.Pages.Restaurants
         public IEnumerable<Restaurant> RestaurantsBySearch { get; set; }
         //public string SearchTerm { get; set; } //without binding
         [BindProperty(SupportsGet =true)]
-        public string SearchTerm { get; set; }
+        public string SearchTerm { get; set; } // with binding
         public ListModel(IConfiguration config, 
                          IRestaurantData restaurantData)
         {
