@@ -1,0 +1,12 @@
+G:\GURPREET SINGH\Study\C#\csharpdotnetcore\02\demos\demos\after\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Data.deps.json
+G:\GURPREET SINGH\Study\C#\csharpdotnetcore\02\demos\demos\after\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Data.dll
+G:\GURPREET SINGH\Study\C#\csharpdotnetcore\02\demos\demos\after\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Data.pdb
+G:\GURPREET SINGH\Study\C#\csharpdotnetcore\02\demos\demos\after\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Core.dll
+G:\GURPREET SINGH\Study\C#\csharpdotnetcore\02\demos\demos\after\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Core.pdb
+G:\GURPREET SINGH\Study\C#\csharpdotnetcore\02\demos\demos\after\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.csprojAssemblyReference.cache
+G:\GURPREET SINGH\Study\C#\csharpdotnetcore\02\demos\demos\after\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.csproj.CoreCompileInputs.cache
+G:\GURPREET SINGH\Study\C#\csharpdotnetcore\02\demos\demos\after\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.AssemblyInfoInputs.cache
+G:\GURPREET SINGH\Study\C#\csharpdotnetcore\02\demos\demos\after\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.AssemblyInfo.cs
+G:\GURPREET SINGH\Study\C#\csharpdotnetcore\02\demos\demos\after\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.csproj.CopyComplete
+G:\GURPREET SINGH\Study\C#\csharpdotnetcore\02\demos\demos\after\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.dll
+G:\GURPREET SINGH\Study\C#\csharpdotnetcore\02\demos\demos\after\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.pdb
