@@ -5,6 +5,33 @@
 
 <h1>Restaurants</h1>
 
+<form method="get">
+    <div class="form-group">
+        <div class="input-group">
+            @*using model binding*@
+            <input type="search" class="form-control" asp-for="SearchTerm" />
+            @*normal approach*@ 
+            @*<input type="search" class="form-control" value="@Model.SearchTerm" name="searchTerm" />*@
+            <span class="input-group-btn">
+                <button class="btn btn-default">
+                    <i class="glyphicon glyphicon-search"></i>
+                </button>
+            </span>
+        </div>
+    </div>
+</form>
+
+<table class="table">
+    @foreach (var restaurant in Model.RestaurantsBySearch)
+    {
+        <tr>
+            <td>@restaurant.Name</td>
+            <td>@restaurant.Location</td>
+            <td>@restaurant.Cuisine</td>
+        </tr>
+    }
+</table>
+
 <table class="table">
     @foreach(var restaurant in Model.Restaurants)
     {

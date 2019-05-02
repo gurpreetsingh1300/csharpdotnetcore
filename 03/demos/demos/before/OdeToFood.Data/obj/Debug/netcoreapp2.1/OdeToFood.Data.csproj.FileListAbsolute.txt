@@ -1,0 +1,12 @@
+D:\v-guseth\Practice\csharpdotnetcore\03\demos\demos\before\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Data.deps.json
+D:\v-guseth\Practice\csharpdotnetcore\03\demos\demos\before\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Data.dll
+D:\v-guseth\Practice\csharpdotnetcore\03\demos\demos\before\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Data.pdb
+D:\v-guseth\Practice\csharpdotnetcore\03\demos\demos\before\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Core.dll
+D:\v-guseth\Practice\csharpdotnetcore\03\demos\demos\before\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Core.pdb
+D:\v-guseth\Practice\csharpdotnetcore\03\demos\demos\before\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.csprojAssemblyReference.cache
+D:\v-guseth\Practice\csharpdotnetcore\03\demos\demos\before\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.csproj.CoreCompileInputs.cache
+D:\v-guseth\Practice\csharpdotnetcore\03\demos\demos\before\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.AssemblyInfoInputs.cache
+D:\v-guseth\Practice\csharpdotnetcore\03\demos\demos\before\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.AssemblyInfo.cs
+D:\v-guseth\Practice\csharpdotnetcore\03\demos\demos\before\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.csproj.CopyComplete
+D:\v-guseth\Practice\csharpdotnetcore\03\demos\demos\before\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.dll
+D:\v-guseth\Practice\csharpdotnetcore\03\demos\demos\before\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.pdb
