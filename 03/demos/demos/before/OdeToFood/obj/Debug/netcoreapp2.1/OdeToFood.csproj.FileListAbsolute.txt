@@ -73,3 +73,5 @@ G:\GURPREET SINGH\Study\C#\csharpdotnetcore\03\demos\demos\before\OdeToFood\obj\
 G:\GURPREET SINGH\Study\C#\csharpdotnetcore\03\demos\demos\before\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.dll
 G:\GURPREET SINGH\Study\C#\csharpdotnetcore\03\demos\demos\before\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.pdb
 G:\GURPREET SINGH\Study\C#\csharpdotnetcore\03\demos\demos\before\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\Detail.g.cshtml.cs
+D:\v-guseth\Practice\csharpdotnetcore\03\demos\demos\before\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\Detail.g.cshtml.cs
+D:\v-guseth\Practice\csharpdotnetcore\03\demos\demos\before\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\NotFound.g.cshtml.cs
