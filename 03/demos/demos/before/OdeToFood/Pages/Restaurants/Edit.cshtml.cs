@@ -23,10 +23,14 @@ namespace OdeToFood.Pages.Restaurants
             this.restaurantData = restaurantData;
             this.htmlHelper = htmlHelper;
         }
-        public IActionResult OnGet(int restaurantId)
+        public IActionResult OnGet(int? restaurantId)
         {
             Cuisines = htmlHelper.GetEnumSelectList<CuisineType>();
-            Restaurant = restaurantData.GetRestaurantById(restaurantId);
+            if (restaurantId.HasValue)
+            {
+                Restaurant = restaurantData.GetRestaurantById(restaurantId.Value);
+            }
+            
             if (Restaurant == null)
             {
                 return RedirectToPage("./NotFound");
@@ -36,9 +40,15 @@ namespace OdeToFood.Pages.Restaurants
         public IActionResult OnPost()
         {
             Cuisines = htmlHelper.GetEnumSelectList<CuisineType>(); // need again in post method ... for populating during post operation
-            //Restaurant = restaurantData.UpdateRestaurant(Restaurant); this also works
-            restaurantData.UpdateRestaurant(Restaurant); //this is able to work due to model binding 
-            restaurantData.Commit();
+            if (ModelState.IsValid)
+            {
+                //Restaurant = restaurantData.UpdateRestaurant(Restaurant); this also works
+                restaurantData.UpdateRestaurant(Restaurant); //this is able to work due to model binding 
+                restaurantData.Commit();
+                return RedirectToPage("./Detail", new { restaurantId = Restaurant.Id });
+                //return RedirectToPage("./Detail/" + Restaurant.Id);
+            }
+            
             return Page();
         }
     }
