@@ -681,23 +681,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\scott\\.nuget\\packages\\": {},
+    "C:\\Users\\GURPREET SINGH\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\github\\odetofood\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj",
+      "projectUniqueName": "G:\\GURPREET SINGH\\Study\\C#\\csharpdotnetcore\\03\\demos\\demos\\after\\OdeToFood.Core\\OdeToFood.Core.csproj",
       "projectName": "OdeToFood.Core",
-      "projectPath": "C:\\github\\odetofood\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj",
-      "packagesPath": "C:\\Users\\scott\\.nuget\\packages\\",
-      "outputPath": "C:\\github\\odetofood\\OdeToFood\\OdeToFood.Core\\obj\\",
+      "projectPath": "G:\\GURPREET SINGH\\Study\\C#\\csharpdotnetcore\\03\\demos\\demos\\after\\OdeToFood.Core\\OdeToFood.Core.csproj",
+      "packagesPath": "C:\\Users\\GURPREET SINGH\\.nuget\\packages\\",
+      "outputPath": "G:\\GURPREET SINGH\\Study\\C#\\csharpdotnetcore\\03\\demos\\demos\\after\\OdeToFood.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\scott\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\GURPREET SINGH\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
