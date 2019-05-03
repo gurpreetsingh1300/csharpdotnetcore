@@ -59,7 +59,7 @@ using OdeToFood;
             WriteLiteral("\r\n<h1>Restaurants</h1>\r\n\r\n");
             EndContext();
             BeginContext(58, 583, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "cfd3d96673ee42f283b43955118f2607", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6a2a1685646e404bacbd2c7f8f0c9bda", async() => {
                 BeginContext(77, 67, true);
                 WriteLiteral("\r\n    <div class=\"form-group\">\r\n        <div class=\"input-group\">\r\n");
                 EndContext();
@@ -67,7 +67,7 @@ using OdeToFood;
                 WriteLiteral("            ");
                 EndContext();
                 BeginContext(193, 65, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "8d6caf1e42d54d038e277bd8c77504d4", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "791179ab493c4c2da46e111c71ee02c3", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper>();
@@ -154,7 +154,7 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper.For = ModelExpressionProvid
             WriteLiteral("</td>\r\n            <td>\r\n                ");
             EndContext();
             BeginContext(907, 169, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8d3bf2fcd1664bbb8e1579e0afdf7313", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0c6d5376e1a545619d7573a3c52192f2", async() => {
                 BeginContext(989, 83, true);
                 WriteLiteral("\r\n                    <i class=\"glyphicon glyphicon-zoom-in\"></i>\r\n                ");
                 EndContext();
@@ -190,7 +190,7 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper.For = ModelExpressionProvid
             WriteLiteral("\r\n                ");
             EndContext();
             BeginContext(1094, 164, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "072b820899b84941b752de3b46bdcaba", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c89417c1df4e42f4af487b4c42678a91", async() => {
                 BeginContext(1174, 80, true);
                 WriteLiteral("\r\n                    <i class=\"glyphicon glyphicon-edit\"></i>\r\n                ");
                 EndContext();
@@ -273,7 +273,7 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper.For = ModelExpressionProvid
             WriteLiteral("</td>\r\n        <td>\r\n            ");
             EndContext();
             BeginContext(1542, 161, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "84dbe5d139184e09998a2e1e73b9649b", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "977f96eb20e148ae9dea8ed59dc18f00", async() => {
                 BeginContext(1624, 75, true);
                 WriteLiteral("\r\n                <i class=\"glyphicon glyphicon-zoom-in\"></i>\r\n            ");
                 EndContext();
@@ -309,7 +309,7 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper.For = ModelExpressionProvid
             WriteLiteral("\r\n            ");
             EndContext();
             BeginContext(1717, 156, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "46a7b1ce2e9d461da9b559762dad3216", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "142dfefa17944fbdbc5f5f6b934d7fe2", async() => {
                 BeginContext(1797, 72, true);
                 WriteLiteral("\r\n                <i class=\"glyphicon glyphicon-edit\"></i>\r\n            ");
                 EndContext();
@@ -353,7 +353,7 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper.For = ModelExpressionProvid
             WriteLiteral("</table>\r\n\r\n");
             EndContext();
             BeginContext(1920, 67, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a8d69213a92846d28d1246ac016e89f0", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "82af03a14e0f443a93eb1e7ead00e257", async() => {
                 BeginContext(1965, 18, true);
                 WriteLiteral("Add new restaurant");
                 EndContext();

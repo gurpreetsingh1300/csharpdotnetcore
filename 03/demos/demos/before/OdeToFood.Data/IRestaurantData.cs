@@ -10,6 +10,7 @@ namespace OdeToFood.Data
         IEnumerable<Restaurant> GetAll();
         IEnumerable<Restaurant> GetRestaurantsByName(string name);
         Restaurant GetRestaurantById(int Id);
+        Restaurant AddRestaurant(Restaurant addNewRestaurant);
         Restaurant UpdateRestaurant(Restaurant updatedRestaurant);
         int Commit();
     }
@@ -30,6 +31,12 @@ namespace OdeToFood.Data
         public Restaurant GetRestaurantById(int Id)
         {
             return restaurants.SingleOrDefault(r => r.Id == Id);
+        }
+        public Restaurant AddRestaurant(Restaurant newRestaurant)
+        {
+            newRestaurant.Id = restaurants.Max(r => r.Id) + 1;
+            restaurants.Add(newRestaurant);
+            return newRestaurant;
         }
         public Restaurant UpdateRestaurant(Restaurant updatedRestaurant)
         {

@@ -30,7 +30,10 @@ namespace OdeToFood.Pages.Restaurants
             {
                 Restaurant = restaurantData.GetRestaurantById(restaurantId.Value);
             }
-            
+            else
+            {
+                Restaurant = new Restaurant();
+            }
             if (Restaurant == null)
             {
                 return RedirectToPage("./NotFound");
@@ -42,8 +45,16 @@ namespace OdeToFood.Pages.Restaurants
             Cuisines = htmlHelper.GetEnumSelectList<CuisineType>(); // need again in post method ... for populating during post operation
             if (ModelState.IsValid)
             {
-                //Restaurant = restaurantData.UpdateRestaurant(Restaurant); this also works
-                restaurantData.UpdateRestaurant(Restaurant); //this is able to work due to model binding 
+                if (Restaurant.Id > 0)
+                {
+                    //Restaurant = restaurantData.UpdateRestaurant(Restaurant); this also works
+                    restaurantData.UpdateRestaurant(Restaurant); //this is able to work due to model binding 
+
+                }
+                else
+                {
+                    restaurantData.AddRestaurant(Restaurant);
+                }
                 restaurantData.Commit();
                 return RedirectToPage("./Detail", new { restaurantId = Restaurant.Id });
                 //return RedirectToPage("./Detail/" + Restaurant.Id);
