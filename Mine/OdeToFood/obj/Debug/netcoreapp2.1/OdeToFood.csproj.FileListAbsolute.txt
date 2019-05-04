@@ -118,3 +118,4 @@ G:\GURPREET SINGH\Study\C#\csharpdotnetcore\Mine\OdeToFood\obj\Debug\netcoreapp2
 G:\GURPREET SINGH\Study\C#\csharpdotnetcore\Mine\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.csproj.CopyComplete
 G:\GURPREET SINGH\Study\C#\csharpdotnetcore\Mine\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.dll
 G:\GURPREET SINGH\Study\C#\csharpdotnetcore\Mine\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.pdb
+G:\GURPREET SINGH\Study\C#\csharpdotnetcore\Mine\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\Delete.g.cshtml.cs
