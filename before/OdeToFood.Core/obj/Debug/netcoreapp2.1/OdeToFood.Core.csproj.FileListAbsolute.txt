@@ -1,0 +1,18 @@
+D:\v-guseth\Practice\csharpdotnetcore\03\demos\demos\before\OdeToFood.Core\bin\Debug\netcoreapp2.1\OdeToFood.Core.deps.json
+D:\v-guseth\Practice\csharpdotnetcore\03\demos\demos\before\OdeToFood.Core\bin\Debug\netcoreapp2.1\OdeToFood.Core.dll
+D:\v-guseth\Practice\csharpdotnetcore\03\demos\demos\before\OdeToFood.Core\bin\Debug\netcoreapp2.1\OdeToFood.Core.pdb
+D:\v-guseth\Practice\csharpdotnetcore\03\demos\demos\before\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.csproj.CoreCompileInputs.cache
+D:\v-guseth\Practice\csharpdotnetcore\03\demos\demos\before\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.AssemblyInfoInputs.cache
+D:\v-guseth\Practice\csharpdotnetcore\03\demos\demos\before\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.AssemblyInfo.cs
+D:\v-guseth\Practice\csharpdotnetcore\03\demos\demos\before\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.dll
+D:\v-guseth\Practice\csharpdotnetcore\03\demos\demos\before\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.pdb
+G:\GURPREET SINGH\Study\C#\csharpdotnetcore\03\demos\demos\before\OdeToFood.Core\bin\Debug\netcoreapp2.1\OdeToFood.Core.deps.json
+G:\GURPREET SINGH\Study\C#\csharpdotnetcore\03\demos\demos\before\OdeToFood.Core\bin\Debug\netcoreapp2.1\OdeToFood.Core.dll
+G:\GURPREET SINGH\Study\C#\csharpdotnetcore\03\demos\demos\before\OdeToFood.Core\bin\Debug\netcoreapp2.1\OdeToFood.Core.pdb
+G:\GURPREET SINGH\Study\C#\csharpdotnetcore\03\demos\demos\before\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.csproj.CoreCompileInputs.cache
+G:\GURPREET SINGH\Study\C#\csharpdotnetcore\03\demos\demos\before\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.AssemblyInfoInputs.cache
+G:\GURPREET SINGH\Study\C#\csharpdotnetcore\03\demos\demos\before\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.AssemblyInfo.cs
+G:\GURPREET SINGH\Study\C#\csharpdotnetcore\03\demos\demos\before\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.dll
+G:\GURPREET SINGH\Study\C#\csharpdotnetcore\03\demos\demos\before\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.pdb
+D:\v-guseth\Practice\csharpdotnetcore\03\demos\demos\before\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.csprojAssemblyReference.cache
+G:\GURPREET SINGH\Study\C#\csharpdotnetcore\03\demos\demos\before\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.csprojAssemblyReference.cache
