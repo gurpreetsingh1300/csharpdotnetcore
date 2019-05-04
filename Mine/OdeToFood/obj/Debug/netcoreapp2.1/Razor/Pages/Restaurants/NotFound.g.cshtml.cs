@@ -56,7 +56,7 @@ using OdeToFood;
             WriteLiteral("\r\n<h2>Your Restuarant was not found !!</h2>\r\n");
             EndContext();
             BeginContext(134, 68, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "38936f77027b46eeb9fd0de4972e8075", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "17a96a46873b40408c515720b877e978", async() => {
                 BeginContext(179, 19, true);
                 WriteLiteral("See all restaurants");
                 EndContext();
