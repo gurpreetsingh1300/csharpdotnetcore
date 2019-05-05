@@ -1,10 +1,12 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using Newtonsoft.Json;
+using System.ComponentModel.DataAnnotations;
 
 namespace OdeToFood.Core
 {
     public class Restaurant
     {
-        public int Id { get; set; }
+        [JsonProperty("id")]
+        public string Id { get; set; }
 
         [Required]
         public string Name { get; set; }

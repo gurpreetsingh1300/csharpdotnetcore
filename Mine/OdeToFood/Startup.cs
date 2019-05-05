@@ -32,7 +32,8 @@ namespace OdeToFood
             });
 
             //services.AddSingleton<IRestaurantData, InMemoryRestaurantData>();
-            services.AddScoped<IRestaurantData, SqlRestuarantData>();
+            services.AddScoped<IRestaurantData, CosmosRestaurantData>();
+            //services.AddScoped<IRestaurantData, SqlRestuarantData>();
 
             services.Configure<CookiePolicyOptions>(options =>
             {

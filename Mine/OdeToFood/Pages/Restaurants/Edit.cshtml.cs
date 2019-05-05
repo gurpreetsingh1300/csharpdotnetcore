@@ -23,12 +23,12 @@ namespace OdeToFood.Pages.Restaurants
             this.restaurantData = restaurantData;
             this.htmlHelper = htmlHelper;
         }
-        public IActionResult OnGet(int? restaurantId)
+        public IActionResult OnGet(string restaurantId)
         {
             Cuisines = htmlHelper.GetEnumSelectList<CuisineType>();
-            if (restaurantId.HasValue)
+            if (restaurantId != null)
             {
-                Restaurant = restaurantData.GetRestaurantById(restaurantId.Value);
+                Restaurant = restaurantData.GetRestaurantById(restaurantId);
             }
             else
             {
@@ -45,18 +45,18 @@ namespace OdeToFood.Pages.Restaurants
             Cuisines = htmlHelper.GetEnumSelectList<CuisineType>(); // need again in post method ... for populating during post operation
             if (ModelState.IsValid)
             {
-                if (Restaurant.Id > 0)
+                if (Restaurant.Id != null)
                 {
-                    //Restaurant = restaurantData.UpdateRestaurant(Restaurant); this also works
-                    restaurantData.UpdateRestaurant(Restaurant); //this is able to work due to model binding 
+                    Restaurant = restaurantData.UpdateRestaurant(Restaurant); //this also works
+                    //restaurantData.UpdateRestaurant(Restaurant); //this is able to work due to model binding 
 
                 }
                 else
                 {
-                    restaurantData.AddRestaurant(Restaurant);
+                    Restaurant = restaurantData.AddRestaurant(Restaurant);
                 }
                 TempData["Message"] = "Restaurant saved!";
-                restaurantData.Commit();
+                //restaurantData.Commit();
                 return RedirectToPage("./Detail", new { restaurantId = Restaurant.Id });
                 //return RedirectToPage("./Detail/" + Restaurant.Id);
             }

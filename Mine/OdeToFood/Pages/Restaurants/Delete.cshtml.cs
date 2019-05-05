@@ -17,7 +17,7 @@ namespace OdeToFood.Pages.Restaurants
         {
             this.restaurantData = restaurantData;
         }
-        public IActionResult OnGet(int restaurantId)
+        public IActionResult OnGet(string restaurantId)
         {
             Restaurant = restaurantData.GetRestaurantById(restaurantId);
             if (Restaurant == null)
@@ -27,16 +27,17 @@ namespace OdeToFood.Pages.Restaurants
             return Page();
         }
 
-        public IActionResult OnPost(int restaurantId)
+        public IActionResult OnPost(string restaurantId)
         {
-            var restaurant = restaurantData.DeleteRestaurant(restaurantId);
-            restaurantData.Commit();
+            //var restaurant = 
+            restaurantData.DeleteRestaurant(restaurantId);
+            //restaurantData.Commit();
 
-            if (restaurant == null)
-            {
-                return RedirectToPage("./NotFound");
-            }
-            TempData["Message"] = $"{restaurant.Name} deleted.";
+            //if (restaurant == null)
+            //{
+            //    return RedirectToPage("./NotFound");
+            //}
+            //TempData["Message"] = $"{restaurant.Name} deleted.";
             return RedirectToPage("./List");
 
         }

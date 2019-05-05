@@ -24,7 +24,7 @@ namespace OdeToFood.Data
             return db.SaveChanges();
         }
 
-        public Restaurant DeleteRestaurant(int Id)
+        public Restaurant DeleteRestaurant(string Id)
         {
             var restaurant = GetRestaurantById(Id);
             if(restaurant != null)
@@ -42,7 +42,7 @@ namespace OdeToFood.Data
             return restaurants;
         }
 
-        public Restaurant GetRestaurantById(int Id)
+        public Restaurant GetRestaurantById(string Id)
         {
             return db.Restaurants.Find(Id);
         }

@@ -11,14 +11,14 @@ namespace OdeToFood.Data
 
         public InMemoryRestaurantData()
         {
-            restaurants = new List<Restaurant>()
-            {
-                new Restaurant { Id = 1, Name = "Scott's Pizza", Location="Maryland", Cuisine=CuisineType.Italian},
-                new Restaurant { Id = 2, Name = "Cinnamon Club", Location="London", Cuisine=CuisineType.Italian},
-                new Restaurant { Id = 3, Name = "La Costa", Location = "California", Cuisine=CuisineType.Mexican}
-            };
+            restaurants = new List<Restaurant>();
+            //{
+            //    new Restaurant { Id = 1, Name = "Scott's Pizza", Location="Maryland", Cuisine=CuisineType.Italian},
+            //    new Restaurant { Id = 2, Name = "Cinnamon Club", Location="London", Cuisine=CuisineType.Italian},
+            //    new Restaurant { Id = 3, Name = "La Costa", Location = "California", Cuisine=CuisineType.Mexican}
+            //};
         }
-        public Restaurant GetRestaurantById(int Id)
+        public Restaurant GetRestaurantById(string Id)
         {
             return restaurants.SingleOrDefault(r => r.Id == Id);
         }
@@ -58,7 +58,7 @@ namespace OdeToFood.Data
             return 0;
         }
 
-        public Restaurant DeleteRestaurant(int Id)
+        public Restaurant DeleteRestaurant(string Id)
         {
             var restaurant = restaurants.FirstOrDefault(r => r.Id == Id);
             if(restaurant != null)

@@ -25,3 +25,6 @@ G:\GURPREET SINGH\Study\C#\csharpdotnetcore\Mine\OdeToFood.Core\obj\Debug\netcor
 G:\GURPREET SINGH\Study\C#\csharpdotnetcore\Mine\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.AssemblyInfo.cs
 G:\GURPREET SINGH\Study\C#\csharpdotnetcore\Mine\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.dll
 G:\GURPREET SINGH\Study\C#\csharpdotnetcore\Mine\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.pdb
+G:\GURPREET SINGH\Study\C#\csharpdotnetcore\Mine\OdeToFood.Core\bin\Debug\netcoreapp2.1\Newtonsoft.Json.dll
+G:\GURPREET SINGH\Study\C#\csharpdotnetcore\Mine\OdeToFood.Core\bin\Debug\netcoreapp2.1\Newtonsoft.Json.xml
+G:\GURPREET SINGH\Study\C#\csharpdotnetcore\Mine\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.csproj.CopyComplete

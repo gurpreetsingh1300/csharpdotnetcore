@@ -36,3 +36,5 @@ G:\GURPREET SINGH\Study\C#\csharpdotnetcore\Mine\OdeToFood.Data\obj\Debug\netcor
 G:\GURPREET SINGH\Study\C#\csharpdotnetcore\Mine\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.pdb
 G:\GURPREET SINGH\Study\C#\csharpdotnetcore\Mine\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Data.runtimeconfig.json
 G:\GURPREET SINGH\Study\C#\csharpdotnetcore\Mine\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Data.runtimeconfig.dev.json
+G:\GURPREET SINGH\Study\C#\csharpdotnetcore\Mine\OdeToFood.Data\bin\Debug\netcoreapp2.1\Microsoft.Azure.Documents.ServiceInterop.dll
+G:\GURPREET SINGH\Study\C#\csharpdotnetcore\Mine\OdeToFood.Data\bin\Debug\netcoreapp2.1\Cosmos.CRTCompat.dll
