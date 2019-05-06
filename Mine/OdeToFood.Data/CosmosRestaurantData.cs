@@ -42,8 +42,8 @@ namespace OdeToFood.Data
         {
             var rest = client.CreateDocumentQuery<Restaurant>(restaurantsLink, options).Where(r => r.Id == Id);
             //Restaurant rest = GetRestaurantById(Id);
-            
-            Uri u = UriFactory.CreateDocumentUri("Food", "Restaurants", "a536942d-3758-dccb-6a6e-553bf717b0c9");
+
+            Uri u = UriFactory.CreateDocumentUri("OdeToFood", "Restaurants", Id); //"a536942d-3758-dccb-6a6e-553bf717b0c9");
             client.DeleteDocumentAsync(u);// , new RequestOptions { PartitionKey = new PartitionKey(1) });
             return new Restaurant();
         }

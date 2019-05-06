@@ -7054,23 +7054,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\GURPREET SINGH\\.nuget\\packages\\": {},
+    "C:\\Users\\v-guseth\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\GURPREET SINGH\\Study\\C#\\csharpdotnetcore\\Mine\\OdeToFood.Data\\OdeToFood.Data.csproj",
+      "projectUniqueName": "D:\\v-guseth\\Practice\\new\\csharpdotnetcore\\Mine\\OdeToFood.Data\\OdeToFood.Data.csproj",
       "projectName": "OdeToFood.Data",
-      "projectPath": "G:\\GURPREET SINGH\\Study\\C#\\csharpdotnetcore\\Mine\\OdeToFood.Data\\OdeToFood.Data.csproj",
-      "packagesPath": "C:\\Users\\GURPREET SINGH\\.nuget\\packages\\",
-      "outputPath": "G:\\GURPREET SINGH\\Study\\C#\\csharpdotnetcore\\Mine\\OdeToFood.Data\\obj\\",
+      "projectPath": "D:\\v-guseth\\Practice\\new\\csharpdotnetcore\\Mine\\OdeToFood.Data\\OdeToFood.Data.csproj",
+      "packagesPath": "C:\\Users\\v-guseth\\.nuget\\packages\\",
+      "outputPath": "D:\\v-guseth\\Practice\\new\\csharpdotnetcore\\Mine\\OdeToFood.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\GURPREET SINGH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\v-guseth\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7083,8 +7083,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "G:\\GURPREET SINGH\\Study\\C#\\csharpdotnetcore\\Mine\\OdeToFood.Core\\OdeToFood.Core.csproj": {
-              "projectPath": "G:\\GURPREET SINGH\\Study\\C#\\csharpdotnetcore\\Mine\\OdeToFood.Core\\OdeToFood.Core.csproj"
+            "D:\\v-guseth\\Practice\\new\\csharpdotnetcore\\Mine\\OdeToFood.Core\\OdeToFood.Core.csproj": {
+              "projectPath": "D:\\v-guseth\\Practice\\new\\csharpdotnetcore\\Mine\\OdeToFood.Core\\OdeToFood.Core.csproj"
             }
           }
         }

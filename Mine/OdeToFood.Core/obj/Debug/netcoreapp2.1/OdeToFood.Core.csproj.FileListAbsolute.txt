@@ -28,3 +28,15 @@ G:\GURPREET SINGH\Study\C#\csharpdotnetcore\Mine\OdeToFood.Core\obj\Debug\netcor
 G:\GURPREET SINGH\Study\C#\csharpdotnetcore\Mine\OdeToFood.Core\bin\Debug\netcoreapp2.1\Newtonsoft.Json.dll
 G:\GURPREET SINGH\Study\C#\csharpdotnetcore\Mine\OdeToFood.Core\bin\Debug\netcoreapp2.1\Newtonsoft.Json.xml
 G:\GURPREET SINGH\Study\C#\csharpdotnetcore\Mine\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.csproj.CopyComplete
+D:\v-guseth\Practice\new\csharpdotnetcore\Mine\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.dll
+D:\v-guseth\Practice\new\csharpdotnetcore\Mine\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.pdb
+D:\v-guseth\Practice\new\csharpdotnetcore\Mine\OdeToFood.Core\bin\Debug\netcoreapp2.1\OdeToFood.Core.deps.json
+D:\v-guseth\Practice\new\csharpdotnetcore\Mine\OdeToFood.Core\bin\Debug\netcoreapp2.1\OdeToFood.Core.dll
+D:\v-guseth\Practice\new\csharpdotnetcore\Mine\OdeToFood.Core\bin\Debug\netcoreapp2.1\OdeToFood.Core.pdb
+D:\v-guseth\Practice\new\csharpdotnetcore\Mine\OdeToFood.Core\bin\Debug\netcoreapp2.1\Newtonsoft.Json.dll
+D:\v-guseth\Practice\new\csharpdotnetcore\Mine\OdeToFood.Core\bin\Debug\netcoreapp2.1\Newtonsoft.Json.xml
+D:\v-guseth\Practice\new\csharpdotnetcore\Mine\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.csprojAssemblyReference.cache
+D:\v-guseth\Practice\new\csharpdotnetcore\Mine\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.csproj.CoreCompileInputs.cache
+D:\v-guseth\Practice\new\csharpdotnetcore\Mine\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.AssemblyInfoInputs.cache
+D:\v-guseth\Practice\new\csharpdotnetcore\Mine\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.AssemblyInfo.cs
+D:\v-guseth\Practice\new\csharpdotnetcore\Mine\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.csproj.CopyComplete

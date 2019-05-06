@@ -8697,10 +8697,11 @@
       ]
     },
     "System.Collections.Specialized/4.3.0": {
-      "sha512": "Epx8PoVZR0iuOnJJDzp7pWvdfMMOAvpUo95pC4ScH2mJuXkKA2Y4aR3cG9qt2klHgSons1WFh4kcGW7cSXvrxg==",
+      "sha512": "NoPBj0ykejqAWW4p4gGtrrL+3c84ZLSvGnHgq422ew1Rj4WKj1FA8/BCybqC111EtgcqUl6ZJNFYYS22HLgbjA==",
       "type": "package",
       "path": "system.collections.specialized/4.3.0",
       "files": [
+        ".nupkg.metadata",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -13373,23 +13374,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\GURPREET SINGH\\.nuget\\packages\\": {},
+    "C:\\Users\\v-guseth\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\GURPREET SINGH\\Study\\C#\\csharpdotnetcore\\Mine\\OdeToFood\\OdeToFood.csproj",
+      "projectUniqueName": "D:\\v-guseth\\Practice\\new\\csharpdotnetcore\\Mine\\OdeToFood\\OdeToFood.csproj",
       "projectName": "OdeToFood",
-      "projectPath": "G:\\GURPREET SINGH\\Study\\C#\\csharpdotnetcore\\Mine\\OdeToFood\\OdeToFood.csproj",
-      "packagesPath": "C:\\Users\\GURPREET SINGH\\.nuget\\packages\\",
-      "outputPath": "G:\\GURPREET SINGH\\Study\\C#\\csharpdotnetcore\\Mine\\OdeToFood\\obj\\",
+      "projectPath": "D:\\v-guseth\\Practice\\new\\csharpdotnetcore\\Mine\\OdeToFood\\OdeToFood.csproj",
+      "packagesPath": "C:\\Users\\v-guseth\\.nuget\\packages\\",
+      "outputPath": "D:\\v-guseth\\Practice\\new\\csharpdotnetcore\\Mine\\OdeToFood\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\GURPREET SINGH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\v-guseth\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -13402,8 +13403,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "G:\\GURPREET SINGH\\Study\\C#\\csharpdotnetcore\\Mine\\OdeToFood.Data\\OdeToFood.Data.csproj": {
-              "projectPath": "G:\\GURPREET SINGH\\Study\\C#\\csharpdotnetcore\\Mine\\OdeToFood.Data\\OdeToFood.Data.csproj"
+            "D:\\v-guseth\\Practice\\new\\csharpdotnetcore\\Mine\\OdeToFood.Data\\OdeToFood.Data.csproj": {
+              "projectPath": "D:\\v-guseth\\Practice\\new\\csharpdotnetcore\\Mine\\OdeToFood.Data\\OdeToFood.Data.csproj"
             }
           }
         }
@@ -13429,6 +13430,7 @@
             "version": "[2.1.2, )"
           },
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true
