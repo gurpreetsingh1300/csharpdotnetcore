@@ -1,0 +1,11 @@
+some important things
+
+for config -
+-s ..\parentfolder\*.csproj
+
+to trigger http function - 
+
+PS C:\Users\v-guseth> iwr -Method POST `
+>> -Uri http://localhost:7071/api/OnPaymentReceived `
+>> -Headers @{ "Content-Type"="application.json"} `
+>> -Body '{"OrderId":"134" , "Email" : "random2@mail.com" , "ProductId" : "P103"}'
