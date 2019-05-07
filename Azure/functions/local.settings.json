@@ -1,7 +1,9 @@
 {
     "IsEncrypted": false,
-    "Values": {
-        "AzureWebJobsStorage": "UseDevelopmentStorage=true",
-        "FUNCTIONS_WORKER_RUNTIME": "dotnet"
-    }
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "SendGridApiKey": "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",
+    "EmailSender": "gurpreetsinghsethi0013@outlook.com"
+  }
 }
