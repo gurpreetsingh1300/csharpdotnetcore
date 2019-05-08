@@ -18,7 +18,7 @@ namespace functions
         private static readonly HttpClient client = new HttpClient();
 
         [FunctionName("TestTimer")]
-        public static async Task Run([TimerTrigger("*/40 * * * * *")]TimerInfo myTimer, ILogger log)
+        public static void Run([TimerTrigger("*/40 * * * * *")]TimerInfo myTimer, ILogger log)
         {
 
             //log.LogInformation($"C# Timer trigger function executed at: {DateTime.Now}");
