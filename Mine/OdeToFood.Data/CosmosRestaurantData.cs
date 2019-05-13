@@ -4,6 +4,7 @@ using Microsoft.Azure.Documents.Client;
 using OdeToFood.Core;
 using System.Linq;
 using Microsoft.Azure.Documents;
+using Newtonsoft.Json;
 
 namespace OdeToFood.Data
 {
@@ -81,7 +82,8 @@ namespace OdeToFood.Data
         {
             var updateRestaurantObj = client.UpsertDocumentAsync(restaurantsLink, updatedRestaurant).Result.Resource;
             Restaurant rest = GetRestaurantById(updatedRestaurant.Id);
-            return rest;
+            Restaurant restjson = JsonConvert.DeserializeObject<Restaurant>(updateRestaurantObj.ToString());
+            return restjson;
         }
     }
 }
