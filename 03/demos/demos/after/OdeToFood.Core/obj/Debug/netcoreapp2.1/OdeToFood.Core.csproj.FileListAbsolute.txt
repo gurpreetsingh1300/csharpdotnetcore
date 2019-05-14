@@ -1,9 +1,0 @@
-G:\GURPREET SINGH\Study\C#\csharpdotnetcore\03\demos\demos\after\OdeToFood.Core\bin\Debug\netcoreapp2.1\OdeToFood.Core.deps.json
-G:\GURPREET SINGH\Study\C#\csharpdotnetcore\03\demos\demos\after\OdeToFood.Core\bin\Debug\netcoreapp2.1\OdeToFood.Core.dll
-G:\GURPREET SINGH\Study\C#\csharpdotnetcore\03\demos\demos\after\OdeToFood.Core\bin\Debug\netcoreapp2.1\OdeToFood.Core.pdb
-G:\GURPREET SINGH\Study\C#\csharpdotnetcore\03\demos\demos\after\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.csprojAssemblyReference.cache
-G:\GURPREET SINGH\Study\C#\csharpdotnetcore\03\demos\demos\after\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.csproj.CoreCompileInputs.cache
-G:\GURPREET SINGH\Study\C#\csharpdotnetcore\03\demos\demos\after\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.AssemblyInfoInputs.cache
-G:\GURPREET SINGH\Study\C#\csharpdotnetcore\03\demos\demos\after\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.AssemblyInfo.cs
-G:\GURPREET SINGH\Study\C#\csharpdotnetcore\03\demos\demos\after\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.dll
-G:\GURPREET SINGH\Study\C#\csharpdotnetcore\03\demos\demos\after\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.pdb
