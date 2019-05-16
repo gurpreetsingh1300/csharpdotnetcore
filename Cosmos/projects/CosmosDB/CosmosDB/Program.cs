@@ -25,10 +25,10 @@ namespace CosmosDB
                 {
                     ViewDatabases(client);
 
-                    await CreateDatabase(client);
+                    //await CreateDatabase(client);
                     ViewDatabases(client);
 
-                    await DeleteDatabase(client);
+                    //await DeleteDatabase(client);
                 }
 
 

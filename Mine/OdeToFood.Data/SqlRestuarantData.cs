@@ -16,6 +16,7 @@ namespace OdeToFood.Data
         public Restaurant AddRestaurant(Restaurant addNewRestaurant)
         {
             db.Add(addNewRestaurant);
+            db.SaveChanges();
             return addNewRestaurant;
         }
 
@@ -31,6 +32,7 @@ namespace OdeToFood.Data
             {
                 db.Restaurants.Remove(restaurant);
             }
+            db.SaveChanges();
             return restaurant;
         }
 
@@ -60,6 +62,7 @@ namespace OdeToFood.Data
         {
             var entity = db.Restaurants.Attach(updatedRestaurant);
             entity.State = EntityState.Modified;
+            db.SaveChanges();
             return updatedRestaurant;
         }
     }

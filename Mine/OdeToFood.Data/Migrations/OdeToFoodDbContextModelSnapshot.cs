@@ -20,9 +20,8 @@ namespace OdeToFood.Data.Migrations
 
             modelBuilder.Entity("OdeToFood.Core.Restaurant", b =>
                 {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+                    b.Property<string>("Id")
+                        .ValueGeneratedOnAdd();
 
                     b.Property<int>("Cuisine");
 
